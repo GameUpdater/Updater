@@ -1,4 +1,4 @@
-<Version: 1.01>
+<Alpha: 1.01>
 /data/Actors.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/Armors.json
