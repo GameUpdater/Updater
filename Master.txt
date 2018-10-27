@@ -1,3 +1,7 @@
+<Version: 1.00>
+/data/Test.Zip https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/REAMDME.md
+<End of Version>
+
 <Version: 1.10>
 /data/Actors.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/Animations.json
