@@ -24,6 +24,6 @@
 /data/Tileset.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/Tileset.json
 /data/Troops.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/Weapons.json
-/img/titles2/Title.rpgmvp https://raw.githubusercontent.com/GameUpdater/Alpha-1.01/master/Title.rpgmvp
+/img/titles2/Title.rpgmvp https://raw.githubusercontent.com/GameUpdater/Alpha-1.01/master/TitleAlpha-1.01.png
 /data/README.md https://raw.githubusercontent.com/GameUpdater/Alpha-1.00/master/README.md
 <End of Version>
