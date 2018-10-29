@@ -30,3 +30,6 @@ Old
 /data/Update-Changelog.txt https://raw.githubusercontent.com/GameUpdater/Updater/master/Update-Readme.md
 <End of Version>
 
+<Version: 1.02>
+/data/Map001.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.02/master/Map001.json
+<End of Version>
