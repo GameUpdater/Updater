@@ -32,4 +32,4 @@ Old
 
 <Version: 1.02>
 /data/Map001.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.02/master/Map001.json
-<End of Verison>
+<End of Version>
