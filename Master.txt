@@ -31,5 +31,5 @@ Old
 <End of Version>
 
 <Version: 1.02>
-/data/Map001.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.02/master/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/GameUpdater/Alpha-1.02/master/Map002.json
 <End of Version>
